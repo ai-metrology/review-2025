@@ -1,5 +1,7 @@
+# theme: minimal
 # remote-theme: poole/lanyon@v1.1.0
-remote-theme: daviddarnes/garth # See https://github.com/daviddarnes/garth/blob/master/_config.yml
+# remote-theme: daviddarnes/garth # See https://github.com/daviddarnes/garth/blob/master/_config.yml
+remote-theme: patdryburgh/hitchens
 plugins:
 - jekyll-remote-theme
 
