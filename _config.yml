@@ -1,3 +1,5 @@
-remote-theme: poole/lanyon@v1.1.0
+# remote-theme: poole/lanyon@v1.1.0
+remote-theme: daviddarnes/garth # See https://github.com/daviddarnes/garth/blob/master/_config.yml
 plugins:
 - jekyll-remote-theme
+title: 2025 Year in Review: AI measurement science
