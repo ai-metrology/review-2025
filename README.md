@@ -1,4 +1,4 @@
-# 2025 is the year of AI measurement science aka AImetrics 
+**2025 is the year of AI measurement science aka AImetrics**
 
 
 In 2024, We saw the very early inklings of this when Anthropic put out a paper acknowledging, we need error bars in our evals, and Apollo Research wrote "We need a new science of evaluations". 
